@@ -1,4 +1,4 @@
-![](my-github-banner.png)
+![](my-github-banner.PNG)
 
 ### Hello World, I'm Andrew!
 
