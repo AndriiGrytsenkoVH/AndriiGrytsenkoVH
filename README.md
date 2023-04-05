@@ -1,7 +1,5 @@
+![](my-github-banner.png)
 
-<!--
-![](My_Banner.png)
--->
 ### Hello World, I'm Andrew!
 
 #### About Me:
